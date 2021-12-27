@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+almas is learning programmimng
 Use the left arrow to go back!
